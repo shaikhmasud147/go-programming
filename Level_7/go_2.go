@@ -8,6 +8,7 @@ type person struct {
 }
 
 func main()  {
+	//Pointer demo
 	x := person{
 		fname: "Masud",
 		lname: "Shaikh",
